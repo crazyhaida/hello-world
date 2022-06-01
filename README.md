@@ -4,7 +4,7 @@
 
 ## Deploy the Hello World image on openshift
 ```
-oc new-app https://github.com/crazyhaida/hello-world.git --as-deployment-config=true``
+oc new-app https://github.com/crazyhaida/hello-world.git --as-deployment-config=true
 ```
 
 ## Follow build progress (Git only)
